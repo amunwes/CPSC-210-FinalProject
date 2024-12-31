@@ -1,0 +1,137 @@
+{
+    "shows": [
+        {
+            "hasWatched": true,
+            "genres": [],
+            "name": "movie 1",
+            "description": "No description",
+            "runtime": 646
+        },
+        {
+            "hasWatched": false,
+            "genres": [],
+            "name": "movie 9",
+            "description": "No description",
+            "runtime": 2934
+        }
+    ],
+    "series": [
+        {
+            "series": {
+                "lastWatched": 0,
+                "name": "Series 9",
+                "episodeOrder": [
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "Series 9 Episode 1",
+                        "runtime": 227
+                    },
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "Series 9 Episode 2",
+                        "runtime": 2267
+                    },
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "Series 9 Episode 3",
+                        "runtime": 2582
+                    },
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "Series 9 Episode 4",
+                        "runtime": 1649
+                    },
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "Series 9 Episode 5",
+                        "runtime": 1598
+                    }
+                ]
+            },
+            "isSerialized": false
+        },
+        {
+            "series": {
+                "lastWatched": 0,
+                "name": "Series 2",
+                "episodeOrder": [
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "Series 2 Episode 1",
+                        "runtime": 2498
+                    },
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "Series 2 Episode 2",
+                        "runtime": 3532
+                    },
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "Series 2 Episode 3",
+                        "runtime": 3522
+                    },
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "Series 2 Episode 4",
+                        "runtime": 1213
+                    },
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "Series 2 Episode 5",
+                        "runtime": 374
+                    }
+                ]
+            },
+            "isSerialized": true
+        },
+        {
+            "series": {
+                "lastWatched": 0,
+                "name": "Series 5",
+                "episodeOrder": [
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "Series 5 Episode 1",
+                        "runtime": 3007
+                    },
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "Series 5 Episode 2",
+                        "runtime": 854
+                    },
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "Series 5 Episode 3",
+                        "runtime": 2509
+                    },
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "Series 5 Episode 4",
+                        "runtime": 3443
+                    },
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "Series 5 Episode 5",
+                        "runtime": 736
+                    }
+                ]
+            },
+            "isSerialized": true
+        }
+    ]
+}

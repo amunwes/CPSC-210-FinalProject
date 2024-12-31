@@ -1,0 +1,52 @@
+{
+    "shows": [
+        {
+            "hasWatched": false,
+            "genres": [],
+            "name": "S1E3 - ??",
+            "runtime": 1615
+        },
+        {
+            "hasWatched": false,
+            "genres": [],
+            "name": "Deadpool & Wolverine",
+            "runtime": 7620
+        }
+    ],
+    "series": [
+        {
+            "series": {
+                "lastWatched": 0,
+                "name": "test series 2",
+                "episodeOrder": [{
+                    "hasWatched": false,
+                    "genres": [],
+                    "name": "S1E3 - ??",
+                    "runtime": 1615
+                }]
+            },
+            "isSerialized": true
+        },
+        {
+            "series": {
+                "lastWatched": 0,
+                "name": "test series",
+                "episodeOrder": [
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "S1E1 - ???",
+                        "runtime": 1640
+                    },
+                    {
+                        "hasWatched": false,
+                        "genres": [],
+                        "name": "S1E2 - ????",
+                        "runtime": 1565
+                    }
+                ]
+            },
+            "isSerialized": false
+        }
+    ]
+}
